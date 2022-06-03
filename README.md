@@ -2,11 +2,23 @@
 
 #### "Description"
 Infinite Runner Game written in C++ based on Arduino Uno
+<br>
+ [Video Presentation](https://youtu.be/xnBwWBTBJx8)
 ###### "Team Members:" <br>
 * Elmir Bekmurzaev 
 * Atai Abdiev
-* Eldiiar Kudaiberdiev
-### Images
+* Eldiiar Kudaiberdiev <br>
+<br>
+Markup : <details>
+           <summary>Used Tools</summary>
+  <p>Arduino Uno</p> 
+           <p>Potentiometr</p>
+           <p>Wires</p>
+           <p>LCD 16x2</p>
+           <p>Button</p> 
+           <p>Switch</p>
+         </details>
+Images
 
 <img align="center" alt="Java " width="550px" src="https://github.com/EB-coder/runner/blob/main/289ee767-1a36-4881-afe2-bb9c38b09150.jpg" /> <br />
 <br />
