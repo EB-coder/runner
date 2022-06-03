@@ -1,17 +1,24 @@
 ###  "Runner"   
 
-
+#### "Description"
+Infinite Runner Game written in C++ based on Arduino Uno
+###### "Team Members:" <br>
+* Elmir Bekmurzaev 
+* Atai Abdiev
+* Eldiiar Kudaiberdiev
 ### Images
 
-<img align="center" alt="Java " width="550px" src="https://github.com/itsabdiev/webpizza/blob/main/Main.PNG" /> <br />
+<img align="center" alt="Java " width="550px" src="https://github.com/EB-coder/runner/blob/main/289ee767-1a36-4881-afe2-bb9c38b09150.jpg" /> <br />
 <br />
 
-<img align="center" alt="Java " width="550px" src="https://github.com/itsabdiev/webpizza/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG" /> <br />
+<img align="center" alt="Java " width="550px" src="https://github.com/EB-coder/runner/blob/main/8e5208df-6348-4d30-a0d0-6114e5497aed.jpg" /> <br />
 <br />
 
+<img align="center" alt="Java " width="550px" src="https://github.com/EB-coder/runner/blob/main/b956ea84-ce33-48db-a435-7ed67c13f291.jpg" /> <br />
+<br />
 ### Schema
 
-<img align="center" alt="Java " width="550px" src="https://github.com/itsabdiev/webpizza/blob/main/Untitled.png" /> <br />
+<img align="center" alt="Java " width="550px" src="https://github.com/EB-coder/runner/blob/main/Arduino%20game.jpg" /> <br />
 <br />
 
 ### Languages and Tools:
