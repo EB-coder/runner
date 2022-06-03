@@ -1,4 +1,4 @@
-###  "Runner"   
+###  Infinite Runner
 
 #### Description:
 Infinite Runner Game written in C++ based on Arduino Uno
@@ -18,7 +18,7 @@ Infinite Runner Game written in C++ based on Arduino Uno
            <p>Button</p> 
            <p>Switch</p>
          </details>
-Images
+### Images
 
 <img align="center" alt="Java " width="550px" src="https://github.com/EB-coder/runner/blob/main/289ee767-1a36-4881-afe2-bb9c38b09150.jpg" /> <br />
 <br />
